@@ -1,0 +1,10 @@
+// when importing a partial like _base.scss we leave the underscore
+@import "./base/settings";
+@import "./base/base";
+@import "./components/add-option";
+@import "./components/button";
+@import "./components/container";
+@import "./components/header";
+@import "./components/modal";
+@import "./components/option";
+@import "./components/widget";
